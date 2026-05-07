@@ -138,13 +138,20 @@ streamlit run app.py
 
 ---
 
-##  Autora
 
-**Biatrice Cantaluppi**
-Estudante de Análise e Desenvolvimento de Sistemas, com interesse em análise de dados, visualização e desenvolvimento de soluções orientadas a dados.
+
+https://github.com/user-attachments/assets/2cb30ae8-1f52-40ef-85d2-8eeb9e42eeb9
+
+
+
+
+
+
+
+
+
+
+
+
 
 Este projeto representa a consolidação prática dos conhecimentos adquiridos em Python para análise de dados e construção de dashboards interativos.
-
----
-
- *Projeto desenvolvido com finalidade educacional e demonstrativa, evidenciando competências técnicas em análise de dados e desenvolvimento de aplicações.*
